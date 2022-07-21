@@ -1,7 +1,7 @@
 <h1 align="center">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=pgrd1&fontSize=90">
-<h3 align="center">Introduce</h3>
+<h2 align="center">Introduce</h3>
 <p align="center">
   <img src="htps://capsule-render.vercel.app/api?type=rect&color=gradient&height=1">
 </p>
