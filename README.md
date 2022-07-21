@@ -1,8 +1,8 @@
 <h2> Hello I'm pgrd1 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 </em></p>
-<h3 align="center">IntroDucing</h3>
+<h3 align="center">Introduce</h3>
 <p align="center">
-ㅇ아년ㅇ
+취미로 개발을 하고있습니다.
 </p>
 
 <h3 align="center">📃 Tech stack!</h3>
