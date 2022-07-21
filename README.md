@@ -2,8 +2,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=pgrd1&fontSize=90">
 <p align="center">
-  Hello im pgrd1 im developing bot , game and andother things
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1">
+  Hello im pgrd1 im developing bot , game and andother things
 </p>
 
 <h3 align="center">📃 Tech stack!</h3>
