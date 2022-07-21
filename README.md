@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=pgrd1&fontSize=90">
 <h3 align="center">Introduce</h3>
 <p align="center">
-취미로 개발을 하고있습니다.
+  <img src="htps://capsule-render.vercel.app/api?type=rect&color=gradient&height=1">
 </p>
 
 <h3 align="center">📃 Tech stack!</h3>
