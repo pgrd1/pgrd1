@@ -1,3 +1,4 @@
+<p align="center">
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Hyein!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 <h2> Hello I'm pgrd1 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 </em></p>
