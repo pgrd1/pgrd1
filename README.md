@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=pgrd1&fontSize=90">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"></br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"></br></br>
   Hello im pgrd1 im developing bot , game and andother things
 </p>
 
