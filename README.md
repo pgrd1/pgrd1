@@ -1,9 +1,9 @@
 <h1 align="center">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=pgrd1&fontSize=90">
-<h2 align="center">Hello im pgrd1 im developing bot , game andother things</h3>
+<h1 align="center">Hello im pgrd1 im developing bot , game and andother things</h3>
 <p align="center">
-  <img src="htps://capsule-render.vercel.app/api?type=rect&color=gradient&height=1">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1">
 </p>
 
 <h3 align="center">📃 Tech stack!</h3>
