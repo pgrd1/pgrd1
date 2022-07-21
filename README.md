@@ -1,6 +1,6 @@
 <h1 align="center">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=pgrd1&fontSize=90" />
 <h2> Hello I'm pgrd1 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 </em></p>
 <h3 align="center">Introduce</h3>
