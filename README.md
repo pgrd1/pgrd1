@@ -1,9 +1,5 @@
 <h1 align="center">
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=pgrd1&fontSize=90">
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1"></br></br>
-  Hi im pgrd1. I'm developing bot , game and andother things
+  DVELOPER pgrd1
 </p>
 
 <h3 align="center">📃 Tech stack!</h3>
