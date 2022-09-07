@@ -19,4 +19,4 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=pgrd1&show_icons=true&theme={theme})
 
 ## My Works
-![Bot](https://dcbadge.vercel.app/api/shield/860130066913296394?bot=true)
+[![Bot](https://dcbadge.vercel.app/api/shield/860130066913296394?bot=true)](https://discord.com/api/oauth2/authorize?client_id=860130066913296394&permissions=8&scope=bot%20applications.commands)
