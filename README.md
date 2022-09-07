@@ -17,4 +17,4 @@
 
 ### My Discord
 ![Discord](https://dcbadge.vercel.app/api/shield/704156849661804574)
-![My Bot](https://dcbadge.vercel.app/api/shield/860130066913296394?bot=true)
+![Bot](https://dcbadge.vercel.app/api/shield/860130066913296394?bot=true)
