@@ -15,6 +15,5 @@
 ### Github Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=pgrd1&show_icons=true&theme={theme})
 
-### My Discord
+## My Accounts
 ![Discord](https://dcbadge.vercel.app/api/shield/704156849661804574)
-![Bot](https://dcbadge.vercel.app/api/shield/860130066913296394?bot=true)
