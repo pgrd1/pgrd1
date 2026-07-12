@@ -6,7 +6,7 @@
   <img
     src="./dark.svg"
     width="100%"
-    alt="pgrd1 developer profile banner"
+    alt="pgrd1 developer profile"
   >
 </picture>
 
