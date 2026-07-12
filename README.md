@@ -298,9 +298,3 @@ developer tooling, infrastructure, and open-source projects.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mc.liveforest.kr-0EA5E9?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://mc.liveforest.kr)
 [![GitHub](https://img.shields.io/badge/GitHub-pgrd1-181717?style=for-the-badge\&logo=github)](https://github.com/pgrd1)
-
-<br>
-
-<sub>Built with pure SVG, SMIL animation, and Markdown.</sub>
-
-</div>
