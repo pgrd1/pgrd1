@@ -181,10 +181,7 @@ databases, Discord, websites, and external APIs.
 ### Minecraft Ecosystem
 
 Developing cross-platform Minecraft infrastructure using technologies such as
-Velocity, Geyser, Floodgate, PostgreSQL, Redis, Java, Python, and custom APIs.
-
-Minecraft development is one part of a broader focus on backend, database,
-network, automation, and distributed system engineering.
+Velocity, PostgreSQL, Redis, Java, Python, and custom APIs.
 
 ---
 
@@ -290,11 +287,6 @@ alt="GitHub contribution streak">
 ---
 
 ## Contact
-
-<div align="center">
-
-Open to discussions about backend systems, database architecture,
-developer tooling, infrastructure, and open-source projects.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mc.liveforest.kr-0EA5E9?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://mc.liveforest.kr)
 [![GitHub](https://img.shields.io/badge/GitHub-pgrd1-181717?style=for-the-badge\&logo=github)](https://github.com/pgrd1)
