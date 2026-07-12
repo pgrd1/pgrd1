@@ -119,13 +119,13 @@
           <animate attributeName="opacity" from="0" to="1" dur=".35s" begin="2.04s" fill="freeze"/>
           <text x="542" y="383" class="infoIcon">◇</text>
           <text x="568" y="383" class="infoLabel">Portfolio</text>
-          <text x="690" y="383" class="infoValue">liveforest.kr</text>
+          <text x="690" y="383" class="infoValue">mc.liveforest.kr</text>
         </g>
         <g opacity="0">
           <animate attributeName="opacity" from="0" to="1" dur=".35s" begin="2.17s" fill="freeze"/>
           <text x="542" y="417" class="infoIcon">✉</text>
           <text x="568" y="417" class="infoLabel">Contact</text>
-          <text x="690" y="417" class="infoValue">contact@example.com</text>
+          <text x="690" y="417" class="infoValue">pgrd1101@gmail.com</text>
         </g>
       <text x="542" y="452" class="section" opacity="0">CORE STACK<animate attributeName="opacity" from="0" to="1" dur=".3s" begin="2.35s" fill="freeze"/></text>
       
