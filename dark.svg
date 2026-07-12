@@ -190,7 +190,6 @@
     <animate attributeName="opacity" from="0" to="1" dur=".25s" begin="1.91s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" values="0 -5;0 0" dur=".25s" begin="1.91s" fill="freeze"/>
     <text x="55" y="468" class="ascii">        :;;;;;;;::::..:::::::::.......:::::::;;;;;;;::.;;.:</text>
-  </g>
 
 </g>
 </g>
