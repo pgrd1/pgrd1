@@ -18,7 +18,7 @@
 
 Reliable systems, scalable backends, and developer-focused tools.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-liveforest.kr-0EA5E9?style=flat-square\&logo=googlechrome\&logoColor=white)](https://liveforest.kr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mc.liveforest.kr-0EA5E9?style=flat-square\&logo=googlechrome\&logoColor=white)](https://mc.liveforest.kr)
 [![GitHub](https://img.shields.io/badge/GitHub-pgrd1-181717?style=flat-square\&logo=github)](https://github.com/pgrd1)
 ![Profile Views](https://komarev.com/ghpvc/?username=pgrd1\&style=flat-square\&color=0ea5e9)
 
@@ -270,16 +270,12 @@ cross_platform:
 <img
 src="https://github-readme-stats.vercel.app/api?username=pgrd1&show_icons=true&hide_border=true&theme=transparent"
 height="165"
-alt="GitHub statistics"
-
->
+alt="GitHub statistics">
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgrd1&layout=compact&hide_border=true&theme=transparent"
 height="165"
-alt="Most used languages"
-
->
+alt="Most used languages">
 
 </div>
 
@@ -287,9 +283,7 @@ alt="Most used languages"
 
 <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=pgrd1&hide_border=true&theme=transparent"
-alt="GitHub contribution streak"
-
->
+alt="GitHub contribution streak">
 
 </div>
 
@@ -302,7 +296,7 @@ alt="GitHub contribution streak"
 Open to discussions about backend systems, database architecture,
 developer tooling, infrastructure, and open-source projects.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-liveforest.kr-0EA5E9?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://liveforest.kr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mc.liveforest.kr-0EA5E9?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://mc.liveforest.kr)
 [![GitHub](https://img.shields.io/badge/GitHub-pgrd1-181717?style=for-the-badge\&logo=github)](https://github.com/pgrd1)
 
 <br>
