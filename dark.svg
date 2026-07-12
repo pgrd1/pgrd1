@@ -65,7 +65,15 @@
       <line x1="66" y1="109" x2="432" y2="109" stroke="#22D3EE" stroke-opacity=".38"/>
       <g>
         <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="5.8s" repeatCount="indefinite"/>
-        <text x="72" y="148" class="ascii" clip-path="url(#asciiClip0)" opacity="0">          ▄▄▄▄▄▄▄▄▄▄          <animate attributeName="opacity" from="0" to="1" dur=".12s" begin="0.200s" fill="freeze"/></text><text x="72" y="170" class="ascii" clip-path="url(#asciiClip1)" opacity="0">      ▄████████████████▄      <animate attributeName="opacity" from="0" to="1" dur=".12s" begin="0.285s" fill="freeze"/></text><text x="72" y="192" class="ascii" clip-path="url(#asciiClip2)" opacity="0">    ▄██████▀▀▀▀▀▀████████▄    <animate attributeName="opacity" from="0" to="1" dur=".12s" begin="0.370s" fill="freeze"/></text><text x="72" y="214" class="ascii" clip-path="url(#asciiClip3)" opacity="0">   █████▀   ▄▄▄▄   ▀███████   <animate attributeName="opacity" from="0" to="1" dur=".12s" begin="0.455s" fill="freeze"/></text><text x="72" y="236" class="ascii" clip-path="url(#asciiClip4)" opacity="0">  █████   ▄██████▄   ███████  <animate attributeName="opacity" from="0" to="1" dur=".12s" begin="0.540s" fill="freeze"/></text><text x="72" y="258" class="ascii" clip-path="url(#asciiClip5)" opacity="0"> █████   ███▀  ▀███   ███████ <animate attributeName="opacity" from="0" to="1" dur=".12s" begin="0.625s" fill="freeze"/></text><text x="72" y="280" class="ascii" clip-path="url(#asciiClip6)" opacity="0"> █████   ███    ███   ███████ <animate attributeName="opacity" from="0" to="1" dur=".12s" begin="0.710s" fill="freeze"/></text><text x="72" y="302" class="ascii" clip-path="url(#asciiClip7)" opacity="0"> █████▄   ▀██████▀   ▄████████ <animate attributeName="opacity" from="0" to="1" dur=".12s" begin="0.795s" fill="freeze"/></text><text x="72" y="324" class="ascii" clip-path="url(#asciiClip8)" opacity="0">  ██████▄    ▀▀    ▄█████████  <animate attributeName="opacity" from="0" to="1" dur=".12s" begin="0.880s" fill="freeze"/></text><text x="72" y="346" class="ascii" clip-path="url(#asciiClip9)" opacity="0">   █████████▄▄▄▄████████████   <animate attributeName="opacity" from="0" to="1" dur=".12s" begin="0.965s" fill="freeze"/></text><text x="72" y="368" class="ascii" clip-path="url(#asciiClip10)" opacity="0">     ▀████████████████████▀     <animate attributeName="opacity" from="0" to="1" dur=".12s" begin="1.050s" fill="freeze"/></text><text x="72" y="390" class="ascii" clip-path="url(#asciiClip11)" opacity="0">        ▀▀██████████▀▀          <animate attributeName="opacity" from="0" to="1" dur=".12s" begin="1.135s" fill="freeze"/></text><text x="72" y="412" class="ascii" clip-path="url(#asciiClip12)" opacity="0">        software.engineer       <animate attributeName="opacity" from="0" to="1" dur=".12s" begin="1.220s" fill="freeze"/></text>
+        <image
+          href="./profile.png"
+          x="72"
+          y="125"
+          width="320"
+          height="320"
+          preserveAspectRatio="xMidYMid slice"
+          clip-path="url(#photoClip)"
+        />
       </g>
       <rect x="45" y="-70" width="408" height="55" fill="url(#accentGrad)" opacity=".08">
         <animate attributeName="y" values="-70;610" dur="5.2s" repeatCount="indefinite"/>
