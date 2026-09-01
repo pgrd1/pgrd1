@@ -1,17 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img
-    src="./dark.svg"
-    width="100%"
-    alt="pgrd1 developer profile"
-  >
-</picture>
-
-<br>
-
 # pgrd1
 
 ### System Architect · Backend Engineer · Full Stack Developer
